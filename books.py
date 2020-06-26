@@ -1,598 +1,503 @@
-Good_Reads = '''\
-Messages
-Friends
-The Hunger Games
-Harry Potter and the Order of the Phoenix
-To Kill a Mockingbird
-Pride and Prejudice
-Twilight
-The Book Thief
-The Chronicles of Narnia
-Animal Farm
-The Hobbit
-The Lord of the Rings
-Gone with the Wind
-The Fault in Our Stars
-The Hitchhiker's Guide to the Galaxy
-The Giving Tree
-Wuthering Heights
-The Da Vinci Code
-Memoirs of a Geisha
-The Picture of Dorian Gray
-Alice's Adventures in Wonderland & Through the Looking-Glass
-Jane Eyre
-Les Misérables
+Good_Reads_Young_Adult = '''\
+A Court of Thorns and Roses
+A Monster Calls
+A Tree Grows in Brooklyn
+A Wrinkle in Time
+Alanna: The First Adventure
+Alice in Zombieland
+All the Bright Places
+Amy & Roger's Epic Detour
+An Ember in the Ashes
+Angelfall
+Anne of Green Gables
+Aristotle and Dante Discover the Secrets of the Universe
+Bloodlines
+Born at Midnight
+Cinder
+City of Bones
+Clockwork Angel
+Code Name Verity
+Crank
+Daughter of Smoke & Bone
+Delirium
+Die for Me
 Divergent
-Fahrenheit 451
-Romeo and Juliet
-Lord of the Flies
-The Alchemist
-Crime and Punishment
-The Perks of Being a Wallflower
-The Great Gatsby
-Ender's Game
-City of Bones
-The Help
-Anne of Green Gables
-Charlotte's Web
-The Time Traveler's Wife
-The Little Prince
-Of Mice and Men
+Eleanor & Park
+Every Day
+Fangirl
+Flat-Out Love
+Graceling
+Half-Blood
 Harry Potter and the Sorcerer's Stone
-Dracula
-Brave New World
-One Hundred Years of Solitude
-The Princess Bride
-The Catcher in the Rye
-The Secret Garden
-A Thousand Splendid Suns
-The Lightning Thief
-A Wrinkle in Time
-A Game of Thrones
-The Adventures of Huckleberry Finn
-The Lovely Bones
-Where the Wild Things Are
-The Outsiders
-Green Eggs and Ham
-The Odyssey
-Life of Pi
-A Tale of Two Cities
-Water for Elephants
-Lolita
-Slaughterhouse-Five
-Frankenstein: The 1818 Text
-The Kite Runner
-The Handmaid's Tale
-The Giver
-Catch-22
-Dune
-The Pillars of the Earth
-The Stand
-The Adventures of Sherlock Holmes
-Watership Down
-Great Expectations
-One Flew Over the Cuckoo's Nest
-The Bell Jar
-Anna Karenina
-My Sister's Keeper
+Hate List
+Hopeless
+Howl's Moving Castle
+Hush, Hush
+I Am the Messenger
+I'll Give You the Sun
+Impulse
+It's Kind of a Funny Story
+Just Listen
+Just One Day
+Legend
 Little Women
-Outlander
-The Girl with the Dragon Tattoo
-Matilda
-Harry Potter and the Deathly Hallows
-The Fellowship of the Ring
-Rebecca
-The Color Purple
-A Tree Grows in Brooklyn
-The Road
-1984
-The Brothers Karamazov
-Angela's Ashes
-Vampire Academy
-The Poisonwood Bible
-Siddhartha
-The Golden Compass
-Don Quixote
-Atlas Shrugged
-The Old Man and the Sea
-Harry Potter and the Prisoner of Azkaban
-The Notebook
-A Clockwork Orange
-Winnie-the-Pooh
-The Complete Stories and Poems
-A Prayer for Owen Meany
-Interview with the Vampire
-Joan Guldin
-Marla
-Adam Floridia
-Chris
-Amber
-Elisabeth
-Fire-fish
-David
-kristen
-Georgia
-Dana Stabenow
-Alex
-Svetoslava Dimitrova
-Matt
-Bruce
-Brian
-Molly
-M
-Josef Miyasato
-Amy
-Todd
-Josef Miyasato
-Josef Miyasato
-Josef Miyasato
-Josef Miyasato
-Paige
-Todd
-Josef Miyasato
-Arlene Sanders
-Nick
-Endre Barath
-Leslie
-Hippo dari Hongkong
-John
-Paul
-Bee
-Natalie
-Richard Fulgham
-Tori
-Jason
-Larry
-Elizabeth
-Becca
-Jade
-Greg
-Jazmine
-Kirsten
-Lorena Walker
-Laura
-Messages
-Friends
-To Kill a Mockingbird
-Harry Potter and the Sorcerer's Stone
-Pride and Prejudice
-The Diary of a Young Girl
-1984
-Animal Farm
-The Little Prince
-The Great Gatsby
-The Catcher in the Rye
-The Lord of the Rings
-Jane Eyre
-The Book Thief
-The Chronicles of Narnia
-Romeo and Juliet
-Lord of the Flies
-Harry Potter and the Deathly Hallows
-The Kite Runner
-The Giver
-The Giving Tree
-Charlotte's Web
-Little Women
-The Hobbit, or There and Back Again
-The Hunger Games
-Green Eggs and Ham
-Of Mice and Men
-Harry Potter and the Prisoner of Azkaban
-Alice's Adventures in Wonderland & Through the Looking-Glass
-Wuthering Heights
-Fahrenheit 451
-1984
-Gone with the Wind
-Night
-The Picture of Dorian Gray
-Harry Potter and the Goblet of Fire
-Holy Bible: King James Version
-The Hitchhiker's Guide to the Galaxy
-Tolkien on Fairy-stories
-Hamlet
-The Adventures of Huckleberry Finn
-Harry Potter and the Half-Blood Prince
-Les Misérables
-Brave New World / Brave New World Revisited
-The Alchemist
-Crime and Punishment
-The Help
-The Secret Garden
-Memoirs of a Geisha
-The Lion, the Witch and the Wardrobe
-The Odyssey
-The Cat in the Hat
-A Christmas Carol
-The Outsiders
-The Color Purple
-The Grapes of Wrath
-One Hundred Years of Solitude
-Where the Sidewalk Ends
-A Thousand Splendid Suns
-Anne of Green Gables
-Where the Wild Things Are
-Ender's Game
-The Adventures of Tom Sawyer
-A Tale of Two Cities
-The Count of Monte Cristo
-Life of Pi
-One Flew Over the Cuckoo's Nest
-Oh, the Places You'll Go!
-Anna Karenina
-Flowers for Algernon
-Winnie-the-Pooh
-Tuesdays with Morrie
-The Fellowship of the Ring
-The Handmaid's Tale
-Slaughterhouse-Five
-Catch-22
-The Old Man and the Sea
-The Scarlet Letter
-Macbeth
-Twilight
-The Time Traveler's Wife
-Lolita
-Siddhartha
-The Metamorphosis
-The Stranger
-Frankenstein
-Goodnight Moon
-A Tree Grows in Brooklyn
-War and Peace
-The Little House Collection
-A Clockwork Orange
-Harry Potter and the Chamber of Secrets
-All Quiet on the Western Front
-The Stand
-Uncle Tom's Cabin
-Don Quixote
-القرآن الكريم
-Atlas Shrugged
-The Brothers Karamazov
-The Poisonwood Bible
-The Book of Mormon: Another Testament of Jesus Christ
-Moby-Dick or, the Whale
-Debbie
-Mary Todd
-Wendy Wanderer
-Robbie
-Tony Willis
-Faera
-Melynna
-Robbie
-Maral Espanol
-Mary
-Melynda Yesenia
-arianna
-arianna
-John
-arianna
-edna
-Poe Bird
-arianna
-Debbie
-arianna
-arianna
-Melissa
-Caitlin
-Karen
-arianna
-Tracie
-Julie Jamieson
-Julie Jamieson
-Mandy
-Mark
-Vanessa
-Kitty
-Zeinab
-Kristina
-Angryy0uth
-Mml
-Patrick
-Leslie
-Laikhuram
-Laikhuram
-Jan C
-Marianne
-Mary_z
-Margo
-Margo
-Messages
-Friends
-Harry Potter and the Deathly Hallows
-The Hunger Games
-Harry Potter and the Half-Blood Prince
-Harry Potter and the Goblet of Fire
-Harry Potter and the Order of the Phoenix
-The Book Thief
-The Time Traveler's Wife
-The Kite Runner
-The Help
-A Thousand Splendid Suns
-Catching Fire
-Twilight
-Water for Elephants
-The Girl with the Dragon Tattoo
-Life of Pi
-The Da Vinci Code
-The Lovely Bones
-The Road
-The Curious Incident of the Dog in the Night-Time
-The Secret Life of Bees
-Middlesex
-Harry Potter Series Box Set
-My Sister's Keeper
-The Lightning Thief
-The Glass Castle
-Breaking Dawn
-Atonement
-Eclipse
-The Shadow of the Wind
-Angels & Demons
-American Gods
-New Moon
-The Host
-City of Bones
-The Girl Who Played with Fire
-The Five People You Meet in Heaven
-Extremely Loud & Incredibly Close
 Looking for Alaska
-Never Let Me Go
-The Guernsey Literary and Potato Peel Pie Society
-Eat, Pray, Love
-The Name of the Wind
-The Thirteenth Tale
-Bel Canto
-The Amazing Adventures of Kavalier & Clay
-The Devil in the White City
-The Other Boleyn Girl
-Me Talk Pretty One Day
-Eragon
-A Storm of Swords
-Snow Flower and the Secret Fan
-The Historian
-Cloud Atlas
-The Girl Who Kicked the Hornet's Nest
-Uglies
-Vampire Academy
-Coraline
-The Graveyard Book
-Jonathan Strange & Mr Norrell
-Freakonomics
-Nineteen Minutes
-Kafka on the Shore
-Everything Is Illuminated
-The Last Lecture
-Three Cups of Tea
-The Memory Keeper's Daughter
-The Namesake
-The Brief Wondrous Life of Oscar Wao
-Persepolis: The Story of a Childhood
-The Art of Racing in the Rain
-Oryx and Crake
-The Corrections
-No Country for Old Men
-Running with Scissors
-The Amber Spyglass
-The Blind Assassin
-World Without End
-A Heartbreaking Work of Staggering Genius
-The Shack
-Cutting for Stone
-The Omnivore's Dilemma: A Natural History of Four Meals
-The History of Love
-Sarah's Key
-Seabiscuit: An American Legend
-The Pact
-Shantaram
-House of Leaves
-Empire Falls
-The Story of Edgar Sawtelle
-A Great and Terrible Beauty
-White Teeth
-Blink: The Power of Thinking Without Thinking
-Fast Food Nation: The Dark Side of the All-American Meal
-Anansi Boys
-John Adams
-The Last Olympian
-Daughter of Fortune
-Year of Wonders
-What Is the What
-The Sea of Monsters
-elissa
-Alana Moore
-Mary Beth
-Maria Elmvang
-Moon
-Jason
-Sarah-Louise
-Dan
-Emily
-Mari Anne
-Mari Anne
-Emily
-Amy
-Amy
-Eunice
-Logophile
-Lindsey
-Aileen
-João
-Jillybean
-Hunter Didriksen
-Booklover
-Emma
-Ikra Amesta
-Janna
-John Burns
-Angryy0uth
-Jenni
-Alexandra Dawes
-Mr. Addas Ray
-Alexandra Dawes
-Susi Ayers
-Jamie
-Maya Panika
-Maya Panika
-yooliah
-Sandy
-Jennifer (aka EM)
-Jennifer (aka EM)
-Sheelagh
-Elena
-Barbara Kirby
-Libby
-Sarah
-Ainara
-Nitin Rao
-Messages
-Friends
-To Kill a Mockingbird
-1984
-Harry Potter and the Sorcerer's Stone
-The Great Gatsby
-Animal Farm
-The Hobbit, or There and Back Again
+My Life Next Door
+Nightshade
+Obsidian
+Of Poseidon
+On the Jellicoe Road
+Perfect Chemistry
+Poison Study
+Pushing the Limits
+Red Queen
+Red Rising
+Ruby Red
+Sabriel
+Seraphina
+Shadow and Bone
+Shatter Me
+Since You've Been Gone
+Starcrossed
+Steelheart
+Sweet Evil
+The 5th Wave
+The Absolutely True Diary of a Part-Time Indian
+The Angel Experiment
+The Book Thief
+The Darkest Minds
+The Demon King
 The Diary of a Young Girl
-The Little Prince
-Fahrenheit 451
-The Catcher in the Rye
-The Lion, the Witch and the Wardrobe
-The Grapes of Wrath
-One Hundred Years of Solitude
-Brave New World
-Gone with the Wind
-Of Mice and Men
-Harry Potter and the Prisoner of Azkaban
+The False Prince
+The Fault in Our Stars
+The Gathering
 The Giver
-Lord of the Flies
-Slaughterhouse-Five
-Lolita
-East of Eden
-The Handmaid's Tale
-One Flew Over the Cuckoo's Nest
-The Ultimate Hitchhiker's Guide to the Galaxy
-The Fellowship of the Ring
-Memoirs of a Geisha
-The Stranger
-Harry Potter and the Chamber of Secrets
-Charlotte's Web
-The Chronicles of Narnia
-A Wrinkle in Time
-The Old Man and the Sea
-Ender's Game
-The Giving Tree
-The Return of the King
-The Bell Jar
-The Two Towers
-A Tree Grows in Brooklyn
-Night
-Watership Down
-The Alchemist
-Anne of Green Gables
-In Cold Blood
-Green Eggs and Ham
-Siddhartha
-Atlas Shrugged
-The Color Purple
-The Poisonwood Bible
-Love in the Time of Cholera
-The Metamorphosis
-The Complete Sherlock Holmes
-Nineteen Eighty-Four
-The Secret Garden
-A Prayer for Owen Meany
-The Unbearable Lightness of Being
-The Stand
-The Name of the Rose
-Where the Wild Things Are
-Rebecca
-The Lorax
-Charlie and the Chocolate Factory
-The Pillars of the Earth
-Dune
-The Master and Margarita
-On the Road
+The House of the Scorpion
+The Hunger Games
+The Immortal Rules
+The Lightning Thief
+The Maze Runner
 The Outsiders
-The Sun Also Rises
-The Hitchhiker's Guide to the Galaxy
-Ulysses
-All Quiet on the Western Front
-Beloved
-The Good Earth
-A Confederacy of Dunces
-Angela's Ashes
-The Joy Luck Club
-The Sound and the Fury
-The Fountainhead
-For Whom the Bell Tolls
-The World According to Garp
-Little House on the Prairie
+The Perks of Being a Wallflower
+The Program
+The Raven Boys
+The Scorpio Races
+The Selection
+The Sky Is Everywhere
+The Subtle Knife
+The Summoning
+The Truth About Forever
+The Unbecoming of Mara Dyer
+The Vincent Boys
+The Winner's Curse
+Thirteen Reasons Why
+Throne of Glass
+Tiger's Curse
+To All the Boys I've Loved Before
+Under the Never Sky
+Unearthly
+Unwind
+Vampire Academy
+'''.splitlines()
+
+Good_Reads_All_Time = '''\
+1984
+A Christmas Carol
 A Clockwork Orange
-Their Eyes Were Watching God
+A Confederacy of Dunces
 A Farewell to Arms
-Invisible Man
-Where the Red Fern Grows
-Flowers for Algernon
-Mere Christianity
-Waiting for Godot
-Lonesome Dove
-The Things They Carried
-The Red Tent
-Sophie's Choice
-Fear and Loathing in Las Vegas
 A Game of Thrones
-Franny and Zooey
-To the Lighthouse
+A Great and Terrible Beauty
+A Heartbreaking Work of Staggering Genius
 A Portrait of the Artist as a Young Man
-Blindness
-Cat's Cradle
-Gary
-Laura
-Dottie 
-Mark Desrosiers
-Ashley
-Laura
-Wifey
-Kelly
-Bryan
-jessica juniper
-Bebe Parsons
-Bluestem
-bup
-Lexi
-Matthew
-MEGAN C
-Laura
-Stacy
-Laura
-Todd Johnson
-Sarah
-Mommy
-Ashley
-Kenneth
-Nathanimal
-Sunil
-Matt
+A Prayer for Owen Meany
+A Storm of Swords
+A Tale of Two Cities
+A Thousand Splendid Suns
+A Tree Grows in Brooklyn
+A Wrinkle in Time
+Adam Floridia
+Aileen
+Ainara
+Alana Moore
 Alex
-Matt
-Donitello
-Emily
-Giovany
-Layce Parkinson
-Jane
-Roxanne Bethany
-Michael Kucharski
-David Young
-David Young
-Paula
-Rebecca
-Lisa
+Alexandra Dawes
+Alice's Adventures in Wonderland & Through the Looking-Glass
+All Quiet on the Western Front
+Amber
+American Gods
+Amy
+Anansi Boys
+Angela's Ashes
+Angels & Demons
+Angryy0uth
+Animal Farm
+Anna Karenina
+Anne of Green Gables
+Arlene Sanders
 Ashley
-Gary
-Laura
-Elizabeth
-Marcus
+Atlas Shrugged
+Atonement
+Barbara Kirby
+Bebe Parsons
+Becca
+Bee
+Bel Canto
+Beloved
+Blindness
+Blink: The Power of Thinking Without Thinking
+Bluestem
+Booklover
+Brave New World
+Brave New World / Brave New World Revisited
+Breaking Dawn
+Brian
+Bruce
+Bryan
+Caitlin
+Cat's Cradle
+Catch-22
+Catching Fire
+Charlie and the Chocolate Factory
+Charlotte's Web
+Chris
 Cindy
+City of Bones
+Cloud Atlas
+Coraline
+Crime and Punishment
+Cutting for Stone
+Dan
+Dana Stabenow
+Daughter of Fortune
+David
+David Young
+Debbie
+Divergent
+Don Quixote
+Donitello
+Dottie 
+Dracula
+Dune
+East of Eden
+Eat, Pray, Love
+Eclipse
+Elena
+Elisabeth
+Elizabeth
+Emily
+Emma
+Empire Falls
+Ender's Game
+Endre Barath
+Eragon
+Eunice
+Everything Is Illuminated
+Extremely Loud & Incredibly Close
+Faera
+Fahrenheit 451
+Fast Food Nation: The Dark Side of the All-American Meal
+Fear and Loathing in Las Vegas
+Fire-fish
+Flowers for Algernon
+For Whom the Bell Tolls
+Frankenstein
+Frankenstein: The 1818 Text
+Franny and Zooey
+Freakonomics
+Friends
+Gary
+Georgia
+Giovany
+Gone with the Wind
+Goodnight Moon
+Great Expectations
+Green Eggs and Ham
+Greg
+Hamlet
+Harry Potter Series Box Set
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Deathly Hallows
+Harry Potter and the Goblet of Fire
+Harry Potter and the Half-Blood Prince
+Harry Potter and the Order of the Phoenix
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Sorcerer's Stone
+Hippo dari Hongkong
+Holy Bible: King James Version
+House of Leaves
+Hunter Didriksen
+Ikra Amesta
+In Cold Blood
+Interview with the Vampire
+Invisible Man
+Jade
+Jamie
+Jan C
+Jane
+Jane Eyre
+Janna
+Jason
+Jazmine
+Jenni
+Jennifer (aka EM)
+Jillybean
+Joan Guldin
+John
+John Adams
+John Burns
+Jonathan Strange & Mr Norrell
+Josef Miyasato
+João
+Julie Jamieson
+Kafka on the Shore
+Karen
+Kelly
+Kenneth
+Kirsten
+Kitty
+Kristina
+Laikhuram
+Larry
+Laura
+Layce Parkinson
+Les Misérables
+Leslie
+Lexi
+Libby
+Life of Pi
+Lindsey
+Lisa
+Little House on the Prairie
+Little Women
+Logophile
+Lolita
+Lonesome Dove
+Looking for Alaska
+Lord of the Flies
+Lorena Walker
+Love in the Time of Cholera
+M
+MEGAN C
+Macbeth
+Mandy
+Maral Espanol
+Marcus
+Margo
+Mari Anne
+Maria Elmvang
+Marianne
+Mark
+Mark Desrosiers
+Marla
+Mary
+Mary Beth
+Mary Todd
+Mary_z
+Matilda
+Matt
+Matthew
+Maya Panika
+Me Talk Pretty One Day
+Melissa
+Melynda Yesenia
+Melynna
+Memoirs of a Geisha
+Mere Christianity
+Messages
+Michael Kucharski
+Middlesex
+Mml
+Moby-Dick or, the Whale
+Molly
+Mommy
+Moon
+Mr. Addas Ray
+My Sister's Keeper
+Natalie
+Nathanimal
+Never Let Me Go
+New Moon
+Nick
+Night
+Nineteen Eighty-Four
+Nineteen Minutes
+Nitin Rao
+No Country for Old Men
+Of Mice and Men
+Oh, the Places You'll Go!
+On the Road
+One Flew Over the Cuckoo's Nest
+One Hundred Years of Solitude
+Oryx and Crake
+Outlander
+Paige
+Patrick
+Paul
+Paula
+Persepolis: The Story of a Childhood
+Poe Bird
+Pride and Prejudice
+Rebecca
+Richard Fulgham
+Robbie
+Romeo and Juliet
+Roxanne Bethany
+Running with Scissors
+Sandy
+Sarah
+Sarah's Key
+Sarah-Louise
+Seabiscuit: An American Legend
+Shantaram
+Sheelagh
+Siddhartha
+Slaughterhouse-Five
+Snow Flower and the Secret Fan
+Sophie's Choice
+Stacy
+Sunil
+Susi Ayers
+Svetoslava Dimitrova
+The Adventures of Huckleberry Finn
+The Adventures of Sherlock Holmes
+The Adventures of Tom Sawyer
+The Alchemist
+The Amazing Adventures of Kavalier & Clay
+The Amber Spyglass
+The Art of Racing in the Rain
+The Bell Jar
+The Blind Assassin
+The Book Thief
+The Book of Mormon: Another Testament of Jesus Christ
+The Brief Wondrous Life of Oscar Wao
+The Brothers Karamazov
+The Cat in the Hat
+The Catcher in the Rye
+The Chronicles of Narnia
+The Color Purple
+The Complete Sherlock Holmes
+The Complete Stories and Poems
+The Corrections
+The Count of Monte Cristo
+The Curious Incident of the Dog in the Night-Time
+The Da Vinci Code
+The Devil in the White City
+The Diary of a Young Girl
+The Fault in Our Stars
+The Fellowship of the Ring
+The Five People You Meet in Heaven
+The Fountainhead
+The Girl Who Kicked the Hornet's Nest
+The Girl Who Played with Fire
+The Girl with the Dragon Tattoo
+The Giver
+The Giving Tree
+The Glass Castle
+The Golden Compass
+The Good Earth
+The Grapes of Wrath
+The Graveyard Book
+The Great Gatsby
+The Guernsey Literary and Potato Peel Pie Society
+The Handmaid's Tale
+The Help
+The Historian
+The History of Love
+The Hitchhiker's Guide to the Galaxy
+The Hobbit
+The Hobbit, or There and Back Again
+The Host
+The Hunger Games
+The Joy Luck Club
+The Kite Runner
+The Last Lecture
+The Last Olympian
+The Lightning Thief
+The Lion, the Witch and the Wardrobe
+The Little House Collection
+The Little Prince
+The Lorax
+The Lord of the Rings
+The Lovely Bones
+The Master and Margarita
+The Memory Keeper's Daughter
+The Metamorphosis
+The Name of the Rose
+The Name of the Wind
+The Namesake
+The Notebook
+The Odyssey
+The Old Man and the Sea
+The Omnivore's Dilemma: A Natural History of Four Meals
+The Other Boleyn Girl
+The Outsiders
+The Pact
+The Perks of Being a Wallflower
+The Picture of Dorian Gray
+The Pillars of the Earth
+The Poisonwood Bible
+The Princess Bride
+The Red Tent
+The Return of the King
+The Road
+The Scarlet Letter
+The Sea of Monsters
+The Secret Garden
+The Secret Life of Bees
+The Shack
+The Shadow of the Wind
+The Sound and the Fury
+The Stand
+The Story of Edgar Sawtelle
+The Stranger
+The Sun Also Rises
+The Things They Carried
+The Thirteenth Tale
+The Time Traveler's Wife
+The Two Towers
+The Ultimate Hitchhiker's Guide to the Galaxy
+The Unbearable Lightness of Being
+The World According to Garp
+Their Eyes Were Watching God
+Three Cups of Tea
+To Kill a Mockingbird
+To the Lighthouse
+Todd
+Todd Johnson
+Tolkien on Fairy-stories
+Tony Willis
+Tori
+Tracie
+Tuesdays with Morrie
+Twilight
+Uglies
+Ulysses
+Uncle Tom's Cabin
+Vampire Academy
+Vanessa
+Waiting for Godot
+War and Peace
+Water for Elephants
+Watership Down
+Wendy Wanderer
+What Is the What
+Where the Red Fern Grows
+Where the Sidewalk Ends
+Where the Wild Things Are
+White Teeth
+Wifey
+Winnie-the-Pooh
+World Without End
+Wuthering Heights
+Year of Wonders
+Zeinab
+arianna
+bup
+edna
+elissa
+jessica juniper
+kristen
+yooliah
+القرآن الكريم
 '''.splitlines()

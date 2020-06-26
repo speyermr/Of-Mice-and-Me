@@ -1,7 +1,10 @@
-from books import Good_Reads
+from books import Good_Reads_All_Time
+from books import Good_Reads_Young_Adult
 from words import English_10000
 
-for title in Good_Reads:
+titles = Good_Reads_All_Time + Good_Reads_Young_Adult
+
+for title in titles:
   words = title.split(' ')
   last_word = words[-1]
   last_word_truncated = last_word[0:-1].lower()
